@@ -146,6 +146,7 @@
 <li>Introduction to Pattern Recognition and Machine Learning [Murty & Devi 2014-09-30].pdf</li>
 <li>Learning to Love Data Science_ Explorations of Emerging Technologies and Platforms for Predictive Analytics, Machine Learning, Digital Manufacturing and Supply Chain Optimization.pdf</li>
 
+
 <li>Data Science.pdf</li>
 <li>Machine Learning Algorithms with Applications in Finance.pdf</li>
 <li>Machine Learning_ Step-by-Step Guide To Implement Machine Learning Algorithms with Python.pdf</li>
