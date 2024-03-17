@@ -162,7 +162,6 @@
 <li>ProgrammerLazy. SQL for Marketers_ Dominate data analytics, data science, and big data. Data Science and Machine Learning in Python.pdf</li>
 </ol>
 
-
 <center><h1>👨‍💻 Full Free Complete Artificial Intelligence Career Roadmap 👨‍💻</h1></center>
 <center>
 <table>
