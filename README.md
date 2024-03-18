@@ -207,13 +207,14 @@
     <td><a href="https://rishantenis.github.io/category/machine-learning-engineer-roadmap/"><img src="https://img.shields.io/badge/Docs-Machine_Learning-blue?style=flat-square" alt="Machine Learning Docs"></a></td>
     <td><a href="https://www.youtube.com/watch?v=z0oMMnp6jec&liLUqkkC1ww4VS09f-YV9b5vO5LOT4jHew"><img src="https://img.shields.io/badge/Tutorial-Machine_Learning-red?style=flat-square&logo=youtube" alt="Machine Learning Tutorial"></a></td>
   </tr>
+  
   <tr>
     <td>7️⃣ Become A Data Scientist</td>
     <td><a href="https://github.com/rishantenis/Become-Data-Scientist-A-Complete-Roadmap"><img src="https://img.shields.io/badge/Code-Data_Scientist-blue?style=flat-square&logo=github" alt="Data Scientist Code"></a></td>
     <td><a href="https://rishantenis.github.io/category/become-a-data-scientist/"><img src="https://img.shields.io/badge/Docs-Data_Science-blue?style=flat-square" alt="Data Science Docs"></a></td>
     <td><a href="https://www.youtube.com/watch?v=7kT15xBpu&lis=PLLUkkC4XadDKNOy3FbIqJKHDDIfbR"><img src="https://img.shields.io/badge/Tutorial-Data_Science-red?style=flat-square&logo=youtube" alt="Data Science Tutorial"></a></td>
   </tr>
-  
+
   <tr>
     <td>8️⃣ Deep Learning Engineer Roadmap</td>
     <td><a href="https://github.com/rishantenis/Deep-Learning-Engineer-Roadmap"><img src="https://img.shields.io/badge/Code-Deep_Learning_Engineer-blue?style=flat-square&logo=github" alt="Deep Learning Engineer Code"></a></td>
