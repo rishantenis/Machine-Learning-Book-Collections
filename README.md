@@ -209,6 +209,7 @@
   </tr>
 
 
+
   
   <tr>
     <td>7️⃣ Become A Data Scientist</td>
