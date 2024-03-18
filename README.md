@@ -207,6 +207,7 @@
     <td><a href="https://rishantenis.github.io/category/machine-learning-engineer-roadmap/"><img src="https://img.shields.io/badge/Docs-Machine_Learning-blue?style=flat-square" alt="Machine Learning Docs"></a></td>
     <td><a href="https://www.youtube.com/watch?v=z0oMMnp6jec&liLUqkkC1ww4VS09f-YV9b5vO5LOT4jHew"><img src="https://img.shields.io/badge/Tutorial-Machine_Learning-red?style=flat-square&logo=youtube" alt="Machine Learning Tutorial"></a></td>
   </tr>
+
   
   <tr>
     <td>7️⃣ Become A Data Scientist</td>
