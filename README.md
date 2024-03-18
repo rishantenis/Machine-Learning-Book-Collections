@@ -222,6 +222,7 @@
 
 
 
+
   <tr>
     <td>7️⃣ Become A Data Scientist</td>
     <td><a href="https://github.com/rishantenis/Become-Data-Scientist-A-Complete-Roadmap"><img src="https://img.shields.io/badge/Code-Data_Scientist-blue?style=flat-square&logo=github" alt="Data Scientist Code"></a></td>
