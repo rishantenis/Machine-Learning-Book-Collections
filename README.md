@@ -213,6 +213,7 @@
     <td><a href="https://rishantenis.github.io/category/become-a-data-scientist/"><img src="https://img.shields.io/badge/Docs-Data_Science-blue?style=flat-square" alt="Data Science Docs"></a></td>
     <td><a href="https://www.youtube.com/watch?v=7kT15xBpu&lis=PLLUkkC4XadDKNOy3FbIqJKHDDIfbR"><img src="https://img.shields.io/badge/Tutorial-Data_Science-red?style=flat-square&logo=youtube" alt="Data Science Tutorial"></a></td>
   </tr>
+  
   <tr>
     <td>8️⃣ Deep Learning Engineer Roadmap</td>
     <td><a href="https://github.com/rishantenis/Deep-Learning-Engineer-Roadmap"><img src="https://img.shields.io/badge/Code-Deep_Learning_Engineer-blue?style=flat-square&logo=github" alt="Deep Learning Engineer Code"></a></td>
